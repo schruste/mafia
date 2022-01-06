@@ -5,6 +5,7 @@ dependencies:
   - scipy
   - matplotlib
   - rise
+  - ffmpeg
   - pip:
     - jupyter_contrib_nbextensions
     - jupyter_nbextensions_configurator
