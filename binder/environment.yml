@@ -1,0 +1,14 @@
+name: mafia-environment
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - rise
+  - pip:
+    - jupyter_contrib_nbextensions
+    - jupyter_nbextensions_configurator
+    - RISE
+    - ipywidgets
+    - manim
+
