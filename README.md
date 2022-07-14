@@ -4,8 +4,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/mafia/master?urlpath=lab)
 
 * Trafo:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/master/master?filepath=trafo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/mafia/master?filepath=trafo.ipynb)
 
 * Newton:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/master/master?filepath=Newton.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/mafia/master?filepath=Newton.ipynb)
 
